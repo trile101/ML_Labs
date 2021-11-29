@@ -1,5 +1,5 @@
 # ML_Labs
 #### TOPICS:
 ---
-- ```Lab01```
-- ```Lab02```
+- ```Lab01```: Linear Regression
+- ```Lab02```: Gradient descent
