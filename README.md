@@ -3,3 +3,4 @@
 ---
 - ```Lab01```: Linear Regression
 - ```Lab02```: Gradient descent
+- ```Lab03```: Logistic Regression
